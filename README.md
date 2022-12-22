@@ -8,7 +8,7 @@ Learning cositas.
   
 <br>
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estibalizmartin&layout=compact&hide=css,html)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estibalizmartin&theme=omni&show_icons=true&layout=compact&hide=css,html)
 
 ![Esti's GitHub stats](https://github-readme-stats.vercel.app/api?username=estibalizmartin&theme=omni&show_icons=true)
   
