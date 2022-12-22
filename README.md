@@ -10,6 +10,6 @@ Learning cositas.
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estibalizmartin&layout=compact&hide=css,html)
 
-![Esti's GitHub stats](https://github-readme-stats.vercel.app/api?username=estibalizmartin)
-
+![Esti's GitHub stats](https://github-readme-stats.vercel.app/api?username=estibalizmartin&theme=omni&show_icons=true)
+  
 </details>
