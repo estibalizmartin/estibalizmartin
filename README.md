@@ -2,7 +2,7 @@
 
 This is where I share the projects I do on my free time.
 
-Currently learning backend development with Spring Boot, Express.js and some other technologies.
+Currently learning about Big Data and backend development with Spring Boot.
 
 <details>
   
